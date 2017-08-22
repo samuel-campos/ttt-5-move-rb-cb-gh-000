@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def input_to_index
-  '#{numbers}'.to_i
+  numbers = '#{numbers}'.to_i
 end
 
 def move
