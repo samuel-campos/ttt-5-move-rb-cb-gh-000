@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 numbers = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
-def input_to_index
+def input_to_index(numbers)
   numbers = '#{numbers}'.to_i
 end
 
