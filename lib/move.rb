@@ -14,3 +14,4 @@ end
 value = ["X", "O"]
 
 def move()
+end
