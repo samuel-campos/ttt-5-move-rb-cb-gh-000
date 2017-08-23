@@ -11,4 +11,6 @@ def input_to_index(numbers)
   numbers = "#{numbers}".to_i - 1
 end
 
-puts input_to_index("5")
+value = ["X", "O"]
+
+def move()
